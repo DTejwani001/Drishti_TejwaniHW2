@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3QiE4+djRQ60On9FeL4aNWOjZwnFB4Q8aKSya+Po63QAirDfit8ZCoiXz3E7aOe9B0CisIBabF3Xve33GVG+Vw==",
+  "success": true,
+  "projectFilePath": "/workspaces/hw2-crud-http-endpoints-DTejwani001/day2class.csproj",
+  "expectedPackageFiles": [
+    "/home/vscode/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/vscode/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
