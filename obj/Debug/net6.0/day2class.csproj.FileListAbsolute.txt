@@ -1,0 +1,7 @@
+/workspaces/hw2-crud-http-endpoints-DTejwani001/obj/Debug/net6.0/day2class.csproj.AssemblyReference.cache
+/workspaces/hw2-crud-http-endpoints-DTejwani001/obj/Debug/net6.0/day2class.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/hw2-crud-http-endpoints-DTejwani001/obj/Debug/net6.0/day2class.AssemblyInfoInputs.cache
+/workspaces/hw2-crud-http-endpoints-DTejwani001/obj/Debug/net6.0/day2class.AssemblyInfo.cs
+/workspaces/hw2-crud-http-endpoints-DTejwani001/obj/Debug/net6.0/day2class.csproj.CoreCompileInputs.cache
+/workspaces/hw2-crud-http-endpoints-DTejwani001/obj/Debug/net6.0/day2class.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/hw2-crud-http-endpoints-DTejwani001/obj/Debug/net6.0/day2class.MvcApplicationPartsAssemblyInfo.cache
